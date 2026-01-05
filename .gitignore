@@ -1,0 +1,6 @@
+satellite_images/
+train.xlsx
+test.xlsx
+*.h5
+__pycache__/
+*.pyc
