@@ -64,5 +64,13 @@ Open `24119021_report_generator.ipynb` and run all cells to create visualization
 - Run `data_fetcher.py` to download satellite images
 - Run `train_model.py` to generate the trained model
 
+### 4. Interactive Live Demo:
+To see the model in action (predicting on random test samples):
+```bash
+python run_demo.py
+```
+*   Displays the satellite image.
+*   Shows the real-time price prediction.
+
 ## Results
 The multimodal model achieves improved prediction accuracy by incorporating visual environmental context from satellite imagery alongside traditional property features.
