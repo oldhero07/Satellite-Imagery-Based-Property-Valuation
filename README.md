@@ -72,5 +72,9 @@ python run_demo.py
 *   Displays the satellite image.
 *   Shows the real-time price prediction.
 
+### 5. Project Demo Video
+[![Watch the Demo](https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1IQVuCcR2DwCKkDEluSBQMhSeSBjtNq4s/view?usp=sharing)
+[Click here to watch the full project walkthrough](https://drive.google.com/file/d/1IQVuCcR2DwCKkDEluSBQMhSeSBjtNq4s/view?usp=sharing)
+
 ## Results
 The multimodal model achieves improved prediction accuracy by incorporating visual environmental context from satellite imagery alongside traditional property features.
