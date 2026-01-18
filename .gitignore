@@ -1,0 +1,9 @@
+satellite_images/
+train.xlsx
+test.xlsx
+*.h5
+__pycache__/
+*.pyc
+# Project specific - Large files that need to be downloaded
+satellite_images/
+multimodal_model.h5
